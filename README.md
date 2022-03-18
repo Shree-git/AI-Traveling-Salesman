@@ -6,7 +6,7 @@ The following program uses genetic algorithm to figure out the optimal solution 
 
 One can run the script **graphicaltsp.py**.
 OR
-Run the graphicaltsp.exe file inside of the dist folder if one is using a Windows machine.
+Run the **graphicaltsp.exe** file inside of the dist folder if one is using a Windows machine.
 
 ![tsp](https://user-images.githubusercontent.com/56151022/159075529-a7e96f13-3468-4543-921d-5120ed34bb7b.png)
 ![tsp1](https://user-images.githubusercontent.com/56151022/159075538-f8d032bb-879c-443a-8998-c3a6734b8582.png)
